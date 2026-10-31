@@ -64,5 +64,101 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-routheus-xyz is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://routheus.xyz/
+Live DEX token prices and best‑route swap quotes across 13 EVM chains (Base, Ethereum, Arbitrum, BSC, Optimism, Polygon and more). Sub‑millisecond answers from our own real‑time pool‑state engine, not a proxy. Executable swap calldata (Permit2), simulation‑verified quotes, chained‑state arb quoting, token metadata, token search, DEX pools. For AI agents: pay per call in USDC on Base, Polygon, Arbitrum, Avalanche or Solana via x402 — no API keys, no subscription. From $0.001 per call; failed answers are free.
+
+**Areas:** Company · DeFi · Crypto · DEX · Multichain · Swap
+
+## routheus-xyz on APIs.io
+
+Everything profiled for routheus-xyz is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/routheus-xyz/](https://apis.io/providers/routheus-xyz/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [routheus-xyz Router API](https://apis.io/apis/routheus-xyz/routheus-xyz-router-api/) — The Router API from routheus-xyz — 1 operation(s) for router.
+- [routheus-xyz Tokens API](https://apis.io/apis/routheus-xyz/routheus-xyz-tokens-api/) — The Tokens API from routheus-xyz — 2 operation(s) for tokens.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Routheus Xyz Agentic Access](https://apis.io/agentic-access/routheus-xyz/routheus-xyz-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [routheus-xyz API Rules](https://apis.io/rules/routheus-xyz/routheus-xyz-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Routheus Xyz Domain Security](https://apis.io/security/routheus-xyz/routheus-xyz-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://routheus.xyz/)
+- [Documentation](https://routheus.xyz/llms.txt)
+- [API reference](https://routheus.xyz/openapi.json)
+- [Status](https://routheus.xyz/health)
+
+## API Evangelist rating
+
+**Kin Score 31.1** — thin · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 42.9 |
+| Contract governance | 65.5 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 23.1 |
+| Access clarity | 0.0 |
+
+**Agent readiness 37.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | documented (partial credit) |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/routheus-xyz/](https://apis.io/providers/routheus-xyz/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for routheus-xyz: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/routheus-xyz/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
